@@ -220,7 +220,7 @@ started contributing KubeSphere.
 The [development guide](https://github.com/kubesphere/community/tree/master/developer-guide/development) explains how to
 set up development environment.
 
-- [Slack Channel](https://join.slack.com/t/kubesphere/shared_invite/zt-219hq0b5y-el~FMRrJxGM1Egf5vX6QiA)
+- [Slack Channel](https://join.slack.com/t/kubesphere/shared_invite/zt-2b4t6rdb4-ico_4UJzCln_S2c1pcrIpQ )
 - [Youtube](https://www.youtube.com/channel/UCyTdUQUYjf7XLjxECx63Hpw)
 - [Twitter](https://twitter.com/KubeSphere)
 
